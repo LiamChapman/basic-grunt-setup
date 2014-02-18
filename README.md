@@ -30,13 +30,17 @@ A basic grunt setup, using watch, compass and other tools
 I prefer to use compass over the native sass, along with susy for responsive grids. You'll need sass and compass installed to use the sass options.
 
 The command below will install sass
+
 	gem install sass
 	
 The command below will insall compass
+
 	gem install compass
 	
 The command below will install susy
+
 	gem install susy
 	
 The command below will create a project with compass and susy
+
 	compass create <my-project>  -r susy -u susy
