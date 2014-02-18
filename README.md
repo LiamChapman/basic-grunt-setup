@@ -23,6 +23,9 @@ A basic grunt setup, using watch, compass and other tools
 ### Watch (so you can do live compiling and tasks)
 	npm install grunt-contrib-watch --save-dev
 
+### Live Reload
+	http://livereload.com/ - So you can do automatic changes!
+
 #### Other notes
 I prefer to use compass over the native sass, along with susy for responsive grids. You'll need sass and compass installed to use the sass options.
 
