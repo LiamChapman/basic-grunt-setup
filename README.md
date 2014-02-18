@@ -1,7 +1,13 @@
 basic-grunt-setup
 =================
 
-A basic grunt setup, using watch, compass and other tools
+A basic grunt setup, using watch, compass and other tools. I personally like to keep all my frontend bits in my media folder.
+
+So change directory to the media folder and make sure everything is installed with:
+
+	npm install
+	
+If you have all the packages ready you can just use 'grunt' or 'grunt watch' with the watch package.
 
 ## Packages to install via Node
 
